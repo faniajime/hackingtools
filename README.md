@@ -1,5 +1,5 @@
 # Hacking-tools
-A set of hacking tools for preforming different types of attacks.
+A set of hacking tools for performing different types of attacks.
 
 - [Decoder](/decoder.py)
 
